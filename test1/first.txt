@@ -1,5 +1,6 @@
 this is the first file
 
+added new line in first file
 this is a bug fix edit
 
 this is to check stash
